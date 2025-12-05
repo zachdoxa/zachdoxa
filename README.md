@@ -1,7 +1,7 @@
 # 🧠 Zach | `zachdoxa`
 
 Aspiring cybersecurity professional | College freshman  
-Currently learning the fundamentals of networking, Python, and system security — building the skills to break into offensive security and ethical hacking.
+Currently learning the fundamentals of networking, Python, and system security — building the skills to break into offensive security, ethical hacking, and cloud security.
 
 ---
 
